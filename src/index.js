@@ -8,7 +8,7 @@ import {RoomProvider} from './context'
 
 ReactDOM.render(
   <RoomProvider>
-    <Router>
+    <Router basename='react-apartments'>
       <React.StrictMode>
         <App />
       </React.StrictMode>
