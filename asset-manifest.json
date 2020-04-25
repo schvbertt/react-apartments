@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-apartments/static/css/main.feb5f556.chunk.css",
-    "main.js": "/react-apartments/static/js/main.dd9f3683.chunk.js",
-    "main.js.map": "/react-apartments/static/js/main.dd9f3683.chunk.js.map",
+    "main.js": "/react-apartments/static/js/main.bc79b89e.chunk.js",
+    "main.js.map": "/react-apartments/static/js/main.bc79b89e.chunk.js.map",
     "runtime-main.js": "/react-apartments/static/js/runtime-main.1d14b888.js",
     "runtime-main.js.map": "/react-apartments/static/js/runtime-main.1d14b888.js.map",
     "static/js/2.a1c7ad75.chunk.js": "/react-apartments/static/js/2.a1c7ad75.chunk.js",
     "static/js/2.a1c7ad75.chunk.js.map": "/react-apartments/static/js/2.a1c7ad75.chunk.js.map",
     "index.html": "/react-apartments/index.html",
-    "precache-manifest.ad88522fa2b3359d287e9f10b59416fd.js": "/react-apartments/precache-manifest.ad88522fa2b3359d287e9f10b59416fd.js",
+    "precache-manifest.06d0fac7e72562d13f55c69402fd41ae.js": "/react-apartments/precache-manifest.06d0fac7e72562d13f55c69402fd41ae.js",
     "service-worker.js": "/react-apartments/service-worker.js",
     "static/css/main.feb5f556.chunk.css.map": "/react-apartments/static/css/main.feb5f556.chunk.css.map",
     "static/js/2.a1c7ad75.chunk.js.LICENSE.txt": "/react-apartments/static/js/2.a1c7ad75.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.1d14b888.js",
     "static/js/2.a1c7ad75.chunk.js",
     "static/css/main.feb5f556.chunk.css",
-    "static/js/main.dd9f3683.chunk.js"
+    "static/js/main.bc79b89e.chunk.js"
   ]
 }
