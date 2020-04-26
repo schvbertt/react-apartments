@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72c1f4829058b507961fd3ecbdf25be3",
+    "revision": "5df6bd567d2745b292a9f32c7c947b40",
     "url": "/react-apartments/index.html"
   },
   {
-    "revision": "ab0b87ee627c0c00ad54",
-    "url": "/react-apartments/static/css/main.feb5f556.chunk.css"
+    "revision": "024d4b9555d20958d89d",
+    "url": "/react-apartments/static/css/main.85870584.chunk.css"
   },
   {
     "revision": "2e2f67f5fae45578b169",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-apartments/static/js/2.a1c7ad75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab0b87ee627c0c00ad54",
-    "url": "/react-apartments/static/js/main.bc79b89e.chunk.js"
+    "revision": "024d4b9555d20958d89d",
+    "url": "/react-apartments/static/js/main.a1ad3f6f.chunk.js"
   },
   {
     "revision": "63354f4061ab8005b671",
