@@ -18,7 +18,8 @@ export default class RoomProvider extends Component {
         minSize: 0,
         maxSize: 0,
         breakfast: false,
-        pets: false
+        pets: false,
+        homeAlert: true
     }
     // getData
 
@@ -109,6 +110,12 @@ export default class RoomProvider extends Component {
         }) 
 
     }
+// HOME ALERT
+    handleHomeAlert = () => {
+        this.setState({
+            homeAlert: false
+        })
+    }
 
     render() {
         return (
@@ -116,7 +123,8 @@ export default class RoomProvider extends Component {
             value={{
                 ...this.state,
                 getRoom: this.getRoom,
-                handleChange: this.handleChange
+                handleChange: this.handleChange,
+                handleHomeAlert: this.handleHomeAlert
                 }}>
                 {this.props.children}
             </RoomContext.Provider>
